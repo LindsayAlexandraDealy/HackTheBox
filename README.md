@@ -1,2 +1,2 @@
 # HackTheBox
-Hands on Labs and Documentation
+Ethical hacking and offensive labs (red team)
